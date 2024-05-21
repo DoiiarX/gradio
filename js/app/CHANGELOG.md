@@ -1,5 +1,11 @@
 # @gradio/app
 
+## 1.35.6
+
+### Dependency updates
+
+- @gradio/accordion@0.3.16
+
 ## 1.35.5
 
 ### Dependency updates
